@@ -27,7 +27,7 @@ AI-Assignment-2/
 │
 ├── README.md
 ├── requirements.txt
-├── Assignment_2.ipynb
+├── Second Assignment.ipynb
 │
 ├── report/
 │   ├── assignment2.tex
@@ -78,7 +78,7 @@ jupyter notebook
 5. Open:
 
 ```text
-Assignment_2.ipynb
+Second Assignment.ipynb
 ```
 
 6. Select **Run All** to execute all cells.
